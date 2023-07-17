@@ -1,0 +1,8 @@
+# Ignore standard output(.o) & archive (.a) files
+*.[oa]
+
+# Ignore cache file
+__pycache__
+
+# ignore all .pyc (complied python files)
+*.pyc
